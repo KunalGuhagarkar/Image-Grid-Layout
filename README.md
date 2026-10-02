@@ -2,6 +2,8 @@
 
 A responsive-minded image gallery built with **HTML** and **CSS Grid**. Six images are arranged in a 3 × 3 grid, with some images spanning two rows for a staggered look.
 
+[roadmap.sh](https://roadmap.sh/projects/image-grid)
+
 ## Layout
 
 ```
