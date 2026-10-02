@@ -5,11 +5,12 @@
 }
 
 main {
+    height: 100vh;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 
 }
 
 .item {
-    background-color: lightcoral;
+    border: 1px solid black;
 }
