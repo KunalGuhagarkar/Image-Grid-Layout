@@ -36,3 +36,20 @@ img {
     grid-column: 2;
     grid-row: 2/4;
 }
+
+
+@media (max-width: 600px) {
+    main {
+        height: auto;
+        grid-template-columns: 1fr;
+        grid-template-rows: none;
+        grid-auto-rows: 250px;
+    }
+
+    .item-1,
+    .item-3,
+    .item-4 {
+        grid-column: auto;
+        grid-row: auto;
+    }
+}
