@@ -20,6 +20,7 @@ img {
 
 .item {
     border: 1px solid black;
+    overflow: hidden;
 }
 
 .item-1 {
