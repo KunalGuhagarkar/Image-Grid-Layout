@@ -14,3 +14,7 @@ main {
 .item {
     border: 1px solid black;
 }
+
+.item-1 {
+    grid: 1/3;
+}
